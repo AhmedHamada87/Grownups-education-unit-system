@@ -1,0 +1,87 @@
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.exe.config
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.exe
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.pdb
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Buffers.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Memory.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Buffers.xml
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Memory.xml
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.AssemblyReference.cache
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.Form1.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.login.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.Properties.Resources.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.GenerateResource.cache
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.CoreCompileInputs.cache
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.CopyComplete
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.exe
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.pdb
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.studs.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.addstud.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.editstud.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.adddoor.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.reports.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.simpledepreport.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.simblealldeb.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.mafasalldeb.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.mufasonedep.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.edituser.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.usersettings.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.info.resources
+C:\Users\AHMED HAMADA\source\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.splashscreen.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.exe.config
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.exe
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\markazta3leem.pdb
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.core.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Buffers.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Memory.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Numerics.Vectors.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\Tulpep.NotificationWindow.dll
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Buffers.xml
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Memory.xml
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Numerics.Vectors.xml
+E:\CDrive\repos\markazta3leem\markazta3leem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.AssemblyReference.cache
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.SuggestedBindingRedirects.cache
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.Form1.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.adddoor.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.addstud.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.editstud.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.edituser.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.info.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.login.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.mafasalldeb.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.mufasonedep.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.reports.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.simblealldeb.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.simpledepreport.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.studs.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.forms.usersettings.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.Properties.Resources.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.splashscreen.resources
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.GenerateResource.cache
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.CoreCompileInputs.cache
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.csproj.CopyComplete
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.exe
+E:\CDrive\repos\markazta3leem\markazta3leem\obj\Debug\markazta3leem.pdb
